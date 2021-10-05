@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#E0E0E0</color>
+    <color name="red_austria">#ED2939</color>
+    <color name="red_poland">#DC143C</color>
+    <color name="red_italy">#CD212A</color>
+    <color name="green_italy">#008C45</color>
+    <color name="yellow_columbia">#FCD116</color>
+    <color name="blue_colombia">#003893</color>
+    <color name="red_colombia">#CE1126</color>
+    <color name="red_madagascar">#FC3D32</color>
+    <color name="green_madagascar">#007E3A</color>
+    <color name="red_thailand">#A51931</color>
+    <color name="white_thailand">#F4F5F8</color>
+    <color name="blue_thailand">#2D2A4A</color>
+    <color name="red_denmark">#C60C30</color>
+    <color name="red_switzerland">#D52B1E</color>
+
+</resources>

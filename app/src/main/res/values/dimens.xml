@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_flag_length">150dp</dimen>
+    <dimen name="standard_flag_width">100dp</dimen>
+    <dimen name="default_margin">32dp</dimen>
+    <dimen name="cross_width_denmark">14dp</dimen>
+    <dimen name="madagascar_white_side_width">50dp</dimen>
+    <dimen name="denmark_edge_to_cross_distance">43dp</dimen>
+    <dimen name="switzerland_cross_width">20dp</dimen>
+    <dimen name="switzerland_cross_length">60dp</dimen>
+</resources>
