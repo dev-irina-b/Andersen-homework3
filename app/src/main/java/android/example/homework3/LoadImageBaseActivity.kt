@@ -10,14 +10,14 @@ import android.widget.Toast
 import java.net.URL
 import kotlin.concurrent.thread
 
-class SecondActivity : AppCompatActivity() {
+class LoadImageBaseActivity : AppCompatActivity() {
 
     private lateinit var editText: EditText
     private lateinit var imageView: ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_second)
+        setContentView(R.layout.activity_load_image)
 
         editText = findViewById(R.id.editText)
         imageView = findViewById(R.id.imageView)
